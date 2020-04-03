@@ -6,8 +6,8 @@ export const environment = {
 production: false,
 firebaseConfig: {
   apiKey: "xxxxx",
-    authDomain: "xxxxx",
-    databaseURL: "xxxxx",
+    authDomain: "xxxxxsssss",
+    databaseURL: "xxxdommmxx",
     projectId: "xxxx",
     storageBucket: "xxxx",
     messagingSenderId: "xxx",
